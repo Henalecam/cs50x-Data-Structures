@@ -9,7 +9,7 @@ Abstract Data Types. Queues, Stacks. Linked Lists. Trees, Binary Search Trees. H
 
 The program we'll write will be called **inheritance**. and will determinate possible alleles combinations of a child based on the alleles of their parents and grandparents.
 
-![image showing input and the output of the speller program](./git-content/Speller.png)
+![image showing input and the output of the inheritance program](./git-content/Speller.png)
 
 ## Problems
 
